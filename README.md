@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is  Ahmed Yousef Elbelkasy and I'm a .NET Backend Developer</h3>
+<h3 align="left">My name is  Ahmed Yousef Elbelkasy and I'm a .NET Backend Developer 👨‍💻 </h3>
 
 ###
 
@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">📚 I'm currently learning frontend technologies to build a more comprehensive understanding of full-stack development and improve API design from a consumer's perspective.<br>🎯 Goals: To continuously deepen my expertise in distributed systems and software architecture for creating more complex and efficient solutions.</p>
+<p align="left">
+👨‍💻 I'm currently working as a **.NET Mentor at EraaSoft Company in Cairo**, where I guide and support aspiring developers.<br><br>
+  
+  📚 I'm currently learning frontend technologies to build a more comprehensive understanding of full-stack development and improve API design from a consumer's perspective.<br>🎯 Goals: To continuously deepen my expertise in distributed systems and software architecture for creating more complex and efficient solutions.</p>
 
 ###
 
